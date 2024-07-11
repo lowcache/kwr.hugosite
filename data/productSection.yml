@@ -1,0 +1,8 @@
+# TODO: individual Book Pages @ krob/content/product(books)/product(books)-^1-9.md, links in spotlight & books
+enable: true
+topTitle: Author's Spotlight
+title: |
+  ## The Speaks Saga
+  The Speaks Saga has arrived in its entirety. Timewall Speaks. Blaize Speaks. And the newest edition of Ridley Speaks!
+  Available now on Amazon and from local booksellers!
+_template: product_section_template

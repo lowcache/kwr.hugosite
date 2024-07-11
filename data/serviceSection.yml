@@ -1,0 +1,95 @@
+# TODO: each book/image a link to single layout product/books pages
+enable: true
+topTitle: Complete Works of Kirk Ward Robinson
+title: >
+  ## More Titles by Kirk Ward Robinson
+
+  From non-fiction to science-fiction there's something here for every reader.
+  Even the most auspicious collectors of the written word can find a title or two
+  to whet their appetites!
+service:
+  - content: >
+      #### Founding Courage
+
+      Explore the documents and principles that shaped America's identity, offering
+      insights into the nation's foundations.
+    image: images/books/courage.jpg
+  - content: >
+      #### Founding Character
+
+      Explore specific people who shaped America's identity, offering
+      insights into the foundation of a nation from the people who built it.
+    image: images/books/character.jpg
+  - content: >
+      #### August Roads
+
+      Embark on a captivating adventure that showcases Robinson's storytelling
+      prowess and love for exploration.
+    image: images/books/august.jpg
+  - content: >
+      #### Hiking Through History
+
+      Join Robinson on a journey through time, blending historical events through
+      the experience of long-distance hiking
+    image: images/books/hikr.jpg
+  - content: >
+      #### Notes from the Field
+
+      Accompany Robinson on his real-life adventures, including his Appalachian Trail
+      journeys and global explorations.
+    image: images/books/notes.jpg
+  - content: >
+      #### Life in Continuum
+
+      Dive into an interconnected series of mind-bending science fiction stories that
+      will make you reconsider how you view and perceive time. Received a Kirkus Star for excellence.
+    image: images/books/lifeincont.jpg
+  - content: >
+      #### More Notes from the Field
+
+      Accompany Robinson on his real-life adventures, including his Appalachian Trail
+      journeys and global explorations.
+    image: images/books/morenotes.jpg
+  - content: >
+      #### Latter Half of Inglorious Years
+
+      Delve into a thought-provoking work of literary fiction that's both graceful and
+      emotionally evocative.
+    image: images/books/inglorious.jpg
+  - content: >
+      #### Final Notes from the Field
+
+      Accompany Robinson on his real-life adventures, including his Appalachian Trail
+      journeys and global explorations.
+    image: images/books/finalnotes.jpg
+  - content: >
+      #### A Robin Waits...
+
+       Experience a collection of eclectic short stories featuring diverse characters facing
+       life-changing challenges in various settings and time periods.
+    image: images/books/robin.jpg
+  - content: >
+      #### The Appalachian
+
+       Embark on an epic tale set against the backdrop of the Appalachian Trail, blending adventure,
+       history, and a man's personal transformation, however flawed it, or he, may become.
+    image: images/books/appala.jpg
+  - content: >
+      #### Timewall Speaks
+
+       Immerse yourself in a thrilling sci-fi trilogy featuring "Timewall Speaks," "Blaize Speaks,"
+       and "Ridley Speaks," each offering unique characters and complex worlds.
+    image: images/books/timewall.jpg
+  - content: >
+      #### Ridley Speaks
+
+      Immerse yourself in a thrilling sci-fi trilogy featuring "Timewall Speaks," "Blaize Speaks,"
+      and "Ridley Speaks," each offering unique characters and complex worlds.
+    image: images/books/ridley.jpg
+  - content: >
+      #### Blaize Speaks
+
+      Immerse yourself in a thrilling sci-fi trilogy featuring "Timewall Speaks," "Blaize Speaks,"
+      and "Ridley Speaks," each offering unique characters and complex worlds.
+    image: images/books/blaize.jpg
+_template: service_template

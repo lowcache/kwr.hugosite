@@ -1,0 +1,58 @@
+# In the Name of Satan, the Morning Star, the Beautiful One
+# TODO: convert to News/theFarmNews'
+# FIXME: text-color alpha, backgorund accents, images, buttons/links entire section not building correctly
+---
+enable: true
+topTitle: Latest News kirkwardrobinson.com
+title: >
+  ## Stay up to date with Kirk Ward Robinson
+
+  Check back here for important dates, events, and reminders on anything and everything Kirk Ward Robinson!
+
+
+  Also, look for all the happenings in and around Robinson-Hackett Farm right here!
+tab1Name: Latest News
+tab2Name: Robinson-Hackett Farm
+tab1Target: latestNews
+tab2Target: theFarm
+
+latestNews:
+  - content: >
+      #### Ridley Speaks has arrived!
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/books/ridley.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### New Edition of The Appalachian hit stores in November
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/books/appala.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### New Novel in the works and slated for an early 2025 release!
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /assets/images/theFarm/posterizedbarn.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+
+
+theFarm:
+  - content: >
+      #### Greenhouse Endeavours!
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /assets/images/ghouse/ghousetrack.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Tractor Restoration
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /assets/images/theFarm/tractor.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### ACME Inc.
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/halal.jpg
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
