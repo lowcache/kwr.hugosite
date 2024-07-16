@@ -59,7 +59,7 @@
     "magnific-popup": "github:dimsemenov/Magnific-Popup",
     "quicklink": "^2.3.0",
     "slick-carousel": "^1.8.1",
-    "tinacms": "^1.5.14",
+    "tinacms": "^1.6.6",
     "waypoints": "^4.0.1"
   },
   "devDependencies": {
