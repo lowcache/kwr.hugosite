@@ -27,7 +27,7 @@
   </a>
 </p>
 
-![kirkwardrobinson.com](https://github.com/drpdead/krob/blob/master/assets/images/farmlogo.png)
+![kirkwardrobinson.com](https://github.com/lowcache/krob/blob/master/assets/images/farmlogo.png)
 <h6 align="right">
 KirkWardRobinson.com logo © J.Redd R. 2024
 </h6>
@@ -37,8 +37,18 @@ KirkWardRobinson.com logo © J.Redd R. 2024
 </h3>
 
 <h4 align="center">
-  conceptualized, colored, cloned, cut/pasted, coded, and   reduced to an alliteration by [J.Redd](@drpdead) from Revenant Solutions & DrpDeadDesigns
-</h4>
+  cloned, re-conceptualized, re-colored, rearranged, refined, edited, updated, coded, and its squsre peg was forced through the round hole to fit the very specific use-case displayed here by [J.Redd](@lowCache)
+  If you prefer, or find yourself sympatico, with this version of the theme, feel free to use it in its current form, I just ask that you give the original dev credit, as he did all the heavy lifting and I just came in with as woodchipper and clumsily hacked away at it until I was able to force it to fit (square peg) my very specific and unpopular (unpopular due to a l lack of intererst andssssssssssssssssssssssssd[pppppppppppppppppppdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddpcppdppspppp  ; .// /fgmne\\ addddddddddlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllc;ccccccccccccccccccccccccccccccmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxikd[[pksaksooooooooooooooooooooooooopssssskocm m kocvpooooopdklclkpppppppppppppdddddddd[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\  aa;;;;;;;;;;;;;;;;;;;'ccccccccccccccccccccccccccccc
+  /
+
+
+
+
+
+
+
+   
+</hssssssssssssssssssss4>
 
 - [Demo](#demo)
 - [Website Features](#website-features)
@@ -74,7 +84,7 @@ _TODO_
 
 You can contribute to the Corporio Hugo Theme by following the specific instructions found on the themes git repo by the author [Amin Zibayi](https://GitHub.com/AminZibayi/Corporio).
 
-Contributions to _this_ specific repo is not needed or wanted. However, a more generic and easier to modify version of Corporio has been created and is under active development [here](https://GitHub.com/dropdead/Hugo-Corporio). Feel free to clone and alter the theme with your specific changes and issue a pull request if you feel as though your changes would serve the theme in that current iteration. 
+Contributions to _this_ specific repo is not needed or wanted. However, a more generic and easier to modify version of Corporio has been created and is under active development [here](https://GitHub.com/lowcache/Hugo-Corporio). Feel free to clone and alter the theme with your specific changes and issue a pull request if you feel as though your changes would serve the theme in that current iteration. 
 
 
 ## License
