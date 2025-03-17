@@ -38,17 +38,9 @@ KirkWardRobinson.com logo © J.Redd R. 2024
 
 <h4 align="center">
   cloned, re-conceptualized, re-colored, rearranged, refined, edited, updated, coded, and its squsre peg was forced through the round hole to fit the very specific use-case displayed here by [J.Redd](@lowCache)
-  If you prefer, or find yourself sympatico, with this version of the theme, feel free to use it in its current form, I just ask that you give the original dev credit, as he did all the heavy lifting and I just came in with as woodchipper and clumsily hacked away at it until I was able to force it to fit (square peg) my very specific and unpopular (unpopular due to a l lack of intererst andssssssssssssssssssssssssd[pppppppppppppppppppdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddpcppdppspppp  ; .// /fgmne\\ addddddddddlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllc;ccccccccccccccccccccccccccccccmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmxxxikd[[pksaksooooooooooooooooooooooooopssssskocm m kocvpooooopdklclkpppppppppppppdddddddd[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd\  aa;;;;;;;;;;;;;;;;;;;'ccccccccccccccccccccccccccccc
-  /
-
-
-
-
-
-
-
+  If you prefer, or find yourself sympatico, with this version of the theme, feel free to use it in its current form, I just ask that you give the original dev credit, as he did all the heavy lifting and I just came in with as woodchipper and clumsily hacked away at it until I was able to force it to fit (square peg) my very specific and unpopular (unpopular due to a lack of interest not due to scandal, or disaster) needs.
    
-</hssssssssssssssssssss4>
+</h4>
 
 - [Demo](#demo)
 - [Website Features](#website-features)
