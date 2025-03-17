@@ -27,7 +27,7 @@
   </a>
 </p>
 
-![kirkwardrobinson.com](https://github.com/lowcache/krob/blob/master/assets/images/farmlogo.png)
+![kirkwardrobinson.com](https://github.com/lowcache/kwr.hugosite/blob/master/assets/images/farmlogo.png)
 <h6 align="right">
 KirkWardRobinson.com logo © J.Redd R. 2024
 </h6>
