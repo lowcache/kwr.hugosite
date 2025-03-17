@@ -27,7 +27,7 @@
   </a>
 </p>
 
-![kirkwardrobinson.com](https://github.com/lowcache/kwr.hugosite/blob/master/assets/images/farmlogo.png)
+<a href="https://kirkwardrobinson.com"><img src="https://github.com/lowcache/kwr.hugosite/blob/44ade160f7d5f648781e136eb92e2ff202693547/assets/images/farmlogo.png"></a>
 <h6 align="right">
 KirkWardRobinson.com logo © J.Redd R. 2024
 </h6>
